@@ -1,1 +1,1 @@
-PacmanIA
+Pacman
